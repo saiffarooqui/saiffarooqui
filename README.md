@@ -1,5 +1,5 @@
 <h1 align="center"> My Profile <h1/>
-Visit my<a href="https://phoenix.tech/griffyn/" target="blank"> Portfolio</a>
+<h6 align="center">Visit my<a href="https://phoenix.tech/griffyn/" target="blank"> Portfolio</a><h6/>
 
   <h2 align="center">
     
